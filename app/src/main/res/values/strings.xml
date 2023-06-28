@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VmsOtp Dealer</string>
+    <string-array name="types_array">
+        <item>Select Filmsize....</item>
+        <item>8X10</item>
+        <item>14X17</item>
+        <item>PDF</item>
+    </string-array>
+</resources>
